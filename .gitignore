@@ -1,5 +1,5 @@
 ﻿# 排除 NoteBooks 子文件夹
-NoteBooks/
+# NoteBooks/
 
 # 排除常见的系统/IDE无关文件
 __pycache__/
