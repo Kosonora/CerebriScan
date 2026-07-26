@@ -1,0 +1,11 @@
+﻿# 排除 NoteBooks 子文件夹
+NoteBooks/
+
+# 排除常见的系统/IDE无关文件
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 超大模型文件（超过2GB，GitHub LFS限制）
+Model_Identify/CerebriScan_former.h5
